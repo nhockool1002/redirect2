@@ -1,0 +1,36 @@
+body {
+	padding-top: 3%;
+	height: 100%;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	position: relative;
+}
+
+.title {
+	font-size: 25px;
+	margin-bottom: 2%;
+}
+
+.imgpopst {
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+.imgpopst img {
+	width: 50%
+	height: auto;
+}
+
+.logo {
+	margin-bottom: 3%;
+}
+
+.redirect {
+	font-size: 22px;
+	color: red;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0;
+	left:42%;
+}
